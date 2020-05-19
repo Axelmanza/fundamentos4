@@ -11,6 +11,6 @@ console.log(p1.distanciaAlOrigen())
 console.log(p1.calcularDistancia(p2))
 console.log(p1.calcularDistancia(p3))
 console.log(p2.calcularDistancia(p3))
-// console.log(p1.calcularCuadrante());
-// console.log(p1.masCercano([p2, p3]));
+console.log(p1.calcularCuadrante());
+console.log(p1.masCercano([p2, p3]));
 console.log(TRI.calcularLongLados());
