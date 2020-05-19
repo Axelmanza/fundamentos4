@@ -59,6 +59,4 @@ export class Punto{
         // devuelve el punto igual a la posicion de la distancia mas cercana
         return puntos[resultado]
     }
-    
-
 }
